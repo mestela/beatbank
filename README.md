@@ -5,6 +5,10 @@
 This version requires Schwung 1.0.0 or newer for its mini-font editor and
 scrollable knob lists.
 
+For this community release, use Schwung Manager's **Install Custom Module →
+From GitHub URL** with `https://github.com/mestela/beatbank`. The original
+project and pattern library are by [Mission Minnow](https://github.com/mission-minnow/beatbank).
+
 ![patterns](https://img.shields.io/badge/patterns-457-6C5CE7)
 ![genres](https://img.shields.io/badge/genres-24-00B894)
 ![platform](https://img.shields.io/badge/platform-Ableton%20Move-2D3436)
