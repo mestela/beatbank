@@ -2,6 +2,9 @@
 
 **A library of 450+ classic drum patterns for [Schwung](https://github.com/charlesvestal/schwung) on the Ableton Move.**
 
+This version requires Schwung 1.0.0 or newer for its mini-font editor and
+scrollable knob lists.
+
 ![patterns](https://img.shields.io/badge/patterns-457-6C5CE7)
 ![genres](https://img.shields.io/badge/genres-24-00B894)
 ![platform](https://img.shields.io/badge/platform-Ableton%20Move-2D3436)
